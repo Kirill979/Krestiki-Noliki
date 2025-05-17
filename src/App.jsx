@@ -11,7 +11,7 @@ function App() {
 	<div>Poluchiloss?????</div>
 	<div>Da nu</div>
 	<div>eto dolzna bit pervaya vetka</div>
-    </>
+    <div>Da boze</div></>
   )
 }
 
