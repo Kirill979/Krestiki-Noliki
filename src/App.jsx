@@ -9,6 +9,7 @@ function App() {
   return (
     <>
 	<div>Poluchiloss?????</div>
+	<div>Da nu</div>
     </>
   )
 }
